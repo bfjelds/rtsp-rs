@@ -3,4 +3,5 @@ members = [
     "rtsp-1",
     "rtsp-2",
     "rtsp-common",
+    "examples",
 ]
